@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Deschamps, seu curso está massa!</h1>;
+  return <h1>Página em Construção...</h1>;
 }
 
 function testeDoEditorConfig() {
